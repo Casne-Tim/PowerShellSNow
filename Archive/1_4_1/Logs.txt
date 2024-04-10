@@ -1,0 +1,62 @@
+﻿--- Powershell Start Time [2024-03-08 12:16:52] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-11 08:28:07] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-11 11:12:56] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-14 11:47:54] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-14 11:48:38] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-14 11:49:02] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-14 11:52:54] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-14 11:53:30] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-14 11:54:35] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-14 11:55:13] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-14 11:56:45] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-14 12:19:31] ---
+[8] Errors Found
+Error 1: sends
+Error 2: sends
+Error 3: sends
+Error 4: sends
+Error 5: sends
+Error 6: sends
+Error 7: sends
+Error 8: sends
+--- Powershell Start Time [2024-03-14 12:22:11] ---
+[8] Errors Found
+Error 1: sends
+Error 2: sends
+Error 3: sends
+Error 4: sends
+Error 5: sends
+Error 6: sends
+Error 7: sends
+Error 8: sends
+--- Powershell Start Time [2024-03-14 12:25:03] ---
+[8] Errors Found
+Error 1: sends
+Error 2: sends
+Error 3: sends
+Error 4: sends
+Error 5: sends
+Error 6: sends
+Error 7: sends
+Error 8: sends
+--- Powershell Start Time [2024-03-14 12:25:26] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-14 12:28:48] ---
+[0] Errors Found
+--- Powershell Start Time [2024-03-14 12:29:18] ---
+[1] Errors Found
+Error 1: (Unauthorized).
+--- Powershell Start Time [2024-03-14 12:30:25] ---
+[1] Errors Found
+Error 1: 401 (Unauthorized).

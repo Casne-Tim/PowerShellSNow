@@ -1,0 +1,52 @@
+﻿--- Powershell Start Time [2024-03-22 13:43:07] ---
+Error 1 found on line 31 = 401 (Unauthorized).
+
+--- Powershell Start Time [2024-03-22 13:44:22] ---
+Error 1 found on line 31 = 401 (Unauthorized).
+
+
+--- Powershell Start Time [2024-03-22 13:45:35] ---
+Error 1 found on line 31 = 401 (Unauthorized).
+
+
+--- Powershell Start Time [2024-03-22 13:49:11] ---
+Error 1 found on line 31 = 401 (Unauthorized).
+
+
+--- Powershell Start Time [2024-03-22 13:50:57] ---
+Error 1 found on line 31 = 401 (Unauthorized).
+
+
+--- Powershell Start Time [2024-03-22 13:51:37] ---
+Error 1 found on line 34 = Error:
+Error 2 found on line 31 = 401 (Unauthorized).
+
+
+--- Powershell Start Time [2024-04-09 11:48:05] ---
+0 Errors Found, Incident NOT Sent to SNow.
+
+--- Powershell Start Time [2024-04-09 11:49:11] ---
+Error 1 found 1 time = Error:
+
+--- Powershell Start Time [2024-04-09 11:51:53] ---
+Error 1 found 1 time = Error:
+Error 2 found 1 time = 401 .*Unauthorized
+
+--- Powershell Start Time [2024-04-09 12:15:23] ---
+Unable to find matching row for AF Server MIDPI in C:\SNow Monitoring\config_table.csv
+0 Errors Found, Incident NOT Sent to SNow.
+
+--- Powershell Start Time [2024-04-09 12:16:47] ---
+Unable to find matching row for AF Server MIDPI in C:\SNow Monitoring\config_table.csv
+Error 1 found 1 time = Error:
+Unable to Send Incident, Check VARS siteName=, locationName=, locationID=, errorMessage=SNow Notification Failed and Password file was not found
+
+--- Powershell Start Time [2024-04-09 12:18:16] ---
+Unable to find matching row for AF Server MIDPI in C:\SNow Monitoring\config_table.csv
+Error 1 found 1 time = Error:
+Unable to Send Incident, Check VARS siteName=, locationName=, locationID=, errorMessage=SNow Notification Failed and Password file was not found
+
+--- Powershell Start Time [2024-04-09 12:18:49] ---
+Error 1 found 1 time = Error:
+Password was NOT modified since yesterday. Last Modified at 05/01/2023 08:34:14
+
